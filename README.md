@@ -1,7 +1,5 @@
-# Spanish Challenge — versione completa
+Spanish Challenge – aggiornamento vocabolario scolastico
 
-Webapp PWA per lo studio dei verbi spagnoli. 316 verbi; sette tempi verbali selezionabili; cinque tipi di esercizi; sfide da 10 domande, allenamento mirato, ripasso errori, statistiche e profili individuali.
+Include 316 verbi per gli esercizi di coniugazione e 81 voci trascritte dalla fotografia della lista di Matteo, con una modalità di traduzione italiano ↔ spagnolo da 10 domande.
 
-Per evitare forme scorrette, per i verbi irregolari i tempi non verificati vengono esclusi dalla generazione delle domande. La traduzione è un esercizio sulla persona italiana e sulla forma verbale spagnola, non una traduzione lessicale.
-
-Pubblicazione: caricare tutti i file nella radice di un repository GitHub e attivare Pages su main/(root).
+Caricare tutti i file nella radice del repository GitHub SPANISH-CHALLENGE, sovrascrivendo i precedenti. I progressi restano salvati nel browser; si consiglia comunque di esportarli prima dell’aggiornamento.
