@@ -1,5 +1,5 @@
-Spanish Challenge – aggiornamento vocabolario scolastico
+Spanish Challenge – correzione vocabolario.
 
-Include 316 verbi per gli esercizi di coniugazione e 81 voci trascritte dalla fotografia della lista di Matteo, con una modalità di traduzione italiano ↔ spagnolo da 10 domande.
+La modalità VOCABOLARIO è ora funzionante con 81 verbi, scelta della direzione, 10 domande, controllo risposte e statistiche separate. In Impostazioni si può attivare/disattivare il vocabolario e scegliere la direzione predefinita.
 
-Caricare tutti i file nella radice del repository GitHub SPANISH-CHALLENGE, sovrascrivendo i precedenti. I progressi restano salvati nel browser; si consiglia comunque di esportarli prima dell’aggiornamento.
+Caricare i file nella radice del repository GitHub e confermare la sovrascrittura dei file omonimi.
